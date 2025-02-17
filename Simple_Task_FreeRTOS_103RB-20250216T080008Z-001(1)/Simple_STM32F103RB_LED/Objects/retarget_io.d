@@ -1,0 +1,10 @@
+.\objects\retarget_io.o: C:/Users/ateli/AppData/Local/Arm/Packs/ARM/CMSIS-Compiler/2.0.0/source/armcc/retarget_io.c
+.\objects\retarget_io.o: C:\keil4\ARM\ARMCC\Bin\..\include\string.h
+.\objects\retarget_io.o: C:\keil4\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\retarget_io.o: C:\keil4\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\retarget_io.o: C:\keil4\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\retarget_io.o: C:\keil4\ARM\ARMCC\Bin\..\include\assert.h
+.\objects\retarget_io.o: C:\keil4\ARM\ARMCC\Bin\..\include\rt_sys.h
+.\objects\retarget_io.o: .\RTE\_Target_1\RTE_Components.h
+.\objects\retarget_io.o: C:\Users\ateli\AppData\Local\Arm\Packs\ARM\CMSIS-Compiler\2.0.0\include\retarget_stdin.h
+.\objects\retarget_io.o: C:\Users\ateli\AppData\Local\Arm\Packs\ARM\CMSIS-Compiler\2.0.0\include\retarget_stdout.h
